@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Analyzing The Rime of the Ancient Mariner with Coleridge and Doré"
+authors:
+  - family-names: Enwright
+    given-names: Catherine
+abstract: "Jekyll site for Analyzing the Rime of the Ancient Mariner Project @ Boston College"
+version: 0.0.1
+date-released: "2024-4-9"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/BCDigSchol/ancient-mariner-rime"
