@@ -20,7 +20,7 @@ This site considers The Rime of the Ancient Mariner by Samuel Taylor Coleridge, 
 * Comment out the `url` and `baseurl` lines of `_config.yml` when working locally
 * Install Ruby dependencies by running `bundle install`
 * Install Node dependencies by running `npm install`
-* Run the server with `bundle exec jekyll serve`
+* Run the server with `bundle exec jekyll serve` 
 
 ## Acknowledgements
 
